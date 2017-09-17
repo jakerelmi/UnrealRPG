@@ -5,7 +5,7 @@
 #include "Engine/DataTable.h"
 #include "CharacterSubConversationDirect.generated.h"
 
-USTRUCT()
+USTRUCT(BlueprintType)
 struct FSubConversationMap
 {
 	GENERATED_USTRUCT_BODY()
